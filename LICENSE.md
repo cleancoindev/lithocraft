@@ -1,25 +1,3 @@
-LICENSE:
-
-There are several components involved in Minecrift, each with their own license.
-
-The original Minecraft source (not included here), is Copyright 2013 Mojang
-AB. They retain exclusive rights to their code, but have been generally
-supportive of the modding community and have permitted patches of their source
-code to be redistributed. Using the code in patches/ does not grant you a
-license to Minecraft; instead, its use is contingent upon a license from Mojang
-for Minecraft itself. (Buy the game!)
-
-The Minecraft Coder Pack (MCP) is not redistributed here, and remains
-copyright the MCP team (see http://mcp.ocean-labs.de/index.php/MCP_Releases
-for more information). We make use of their scripts, but do not modify them.
-Use of MCP is without warranty and without support.
-
-Finally, the Minecrift code (/src/) is Copyright Pete Tabram and Mark Browning
-2013, but is licensed for use under the LGPL 3.0 or later. A copy of this
-license is included below. 
-
-
-
                    GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
