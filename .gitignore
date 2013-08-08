@@ -1,0 +1,13 @@
+*.DS_Store
+*~
+.*.swp
+/logs/
+/*.pyc
+/*mcp*/
+.idea/
+*.iml
+releases/
+*zip
+*.class
+*install*.jar
+*install*.exe
